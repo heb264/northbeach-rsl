@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>North Beach RSL Sub-Branch</title>
+
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="styles/main.css" type="text/css" />
+    </head>
+    <body>
+
+        <header>
+            <img src="/images/RSL_logo.jpg" alt="National RSL logo" height="226" width="709" align="right">
+            <img src="/images/rslwa_logo.png" alt="WA State RSL logo" height="226" width="709" align="left">
+        </header>
+
+        <div class="main-wrapper">
